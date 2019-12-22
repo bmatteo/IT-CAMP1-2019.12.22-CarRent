@@ -10,7 +10,9 @@ import java.util.Scanner;
 
 public class Gui {
     public static void showMainMenu() {
-        printMainMenu();
+        printMainMenu(); //uatsfdjyast
+
+        
 
         switch (readChoose()) {
             case "1":
